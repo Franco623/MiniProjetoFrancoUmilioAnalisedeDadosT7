@@ -1,1 +1,10 @@
 Mini projeto de análise de dados, parte de avaliação parcial do curso Análise de dados em Python -Turma 7  - SCTEC Senai SC -
+
+Arquivo final "analise_varejo.ipynb". 
+Para abrir o arquivo alguns passos simples são necessarios:
+Baixar o aquivo analise_varejo_final.ipynb em uma pasta de sua escolha. o Arquivo 
+final com estensão .ipynb pode ser aberto no Google colab  e/ou no VSCode notebook
+.
+Para abrir o arquivo alguns passos simples a ser seguidos: Baixar o aquivo ........ipynb. em uma pasta de sua escolha; 
+depois abrir o VSCode carregar o arquivo; uma vez carregado deve ser executado a partir da primeira celula do VSCode notebook; 
+
