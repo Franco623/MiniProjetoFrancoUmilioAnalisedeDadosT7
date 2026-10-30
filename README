@@ -3,10 +3,10 @@ Mini projeto de análise de dados, parte de avaliação parcial do curso Anális
 Arquivo final "analise_varejo_final.ipynb". 
 Para abrir o arquivo alguns passos simples são necessarios:
 Baixar o aquivo "analise_varejo_final.ipynb" em uma pasta de sua escolha. o Arquivo 
-final com estensão .ipynb pode ser aberto no Google colab  e/ou no VSCode notebook.
-Baixar a base de dados no link ​https://www.kaggle.com/datasets/namespaiva/base-varejo/data​ csv
+final com estensão .ipynb pode ser aberto no Google colab  e/ou no VSCode.
+Baixar a base de dados no link " ​https://www.kaggle.com/datasets/namespaiva/base-varejo/data​ csv "
 Uma vez baixada carregar a base dados na pasta do projeto e indicar o caminho na lnha do código 
-df_varejo = pd.read_csv("minha_pasta.csv",). Neste script a base foi renomeada "Base_Varejo.csv"
+"df_varejo = pd.read_csv("minha_pasta.csv",)". Neste script a base foi renomeada "Base_Varejo.csv"
 Feito isso rodar as celulas em sequència até o final onde será produzida uma base nova limpa.
 
 CONCLUSÕES
