@@ -9,3 +9,15 @@ Uma vez baixada carregar a base dados na pasta do projeto e indicar o caminho na
 df_varejo = pd.read_csv("minha_pasta.csv",). Neste script a base foi renomeada "Base_Varejo.csv"
 Feito isso rodar as celulas em sequència até o final onde será produzida uma base nova limpa.
 
+CONCLUSÕES
+
+• Foram tratados valores nulos, removidas duplicatas e ajustados os tipos de dados da base. 
+• A coluna DATA foi convertida para datetime, permitindo análises temporais adequadas. 
+• A variável CL_FHL foi analisada por meio de estatísticas descritivas, revelando sua distribuição na base. 
+
+• Os agrupamentos realizados permitiram identificar:
+1) A distribuição dos clientes por gênero e verificar qual grupo apresenta maior representatividade na base; 
+2) Foi calculada a média do número de filhos para cada grupo permitindo comparar características demográficas entre os clientes. 
+
+• A qualidade dos dados melhorou após as etapas de limpeza. 
+• Ainda podem existir inconsistências cadastrais e possíveis outliers que exigem análises futura.
